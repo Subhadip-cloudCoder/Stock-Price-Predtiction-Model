@@ -6,3 +6,4 @@ datetime
 yfinance
 scikit-learn
 torch
+streamlit
