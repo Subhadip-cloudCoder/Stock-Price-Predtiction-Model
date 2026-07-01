@@ -98,6 +98,8 @@ I enjoy discussing Data Science, Machine Learning, and innovative tech projects.
 
 [![X (Twitter)](https://img.shields.io/badge/X-Profile-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/subhadipcodes?s=11)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhadip-biswas-ba0a5a419)
+
 <br>
 
 <p align="center">
